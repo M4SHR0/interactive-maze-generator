@@ -1,4 +1,4 @@
-package Tile;
+package MazeGenerator.Tile;
 
 public class LoadL extends Tile {
     public LoadL() {
